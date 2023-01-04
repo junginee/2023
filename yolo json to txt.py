@@ -2,7 +2,7 @@ import re
 import os
 import pickle
 
-## Json 파일들 상위 디렉토리
+# Json 파일들 상위 디렉토리
 input_dir = 'C:\PythonProjects\IMG_OCR_53_4PO_09451'
 
 
